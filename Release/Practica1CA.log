@@ -1,0 +1,12 @@
+﻿  aparcamiento.cpp
+c1xx : warning C4199: no se admite la búsqueda de nombres en dos fases para OpenMP, C++/CLI o C++/CX. Use /Zc:twoPhase-
+  main.cpp
+c1xx : warning C4199: no se admite la búsqueda de nombres en dos fases para OpenMP, C++/CLI o C++/CX. Use /Zc:twoPhase-
+f:\proyectos visual studio\practica1ca\practica1ca\main.cpp(11): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+f:\proyectos visual studio\practica1ca\practica1ca\main.cpp(22): warning C4101: 'runtime': variable local sin referencia
+  threads_coche.cpp
+c1xx : warning C4199: no se admite la búsqueda de nombres en dos fases para OpenMP, C++/CLI o C++/CX. Use /Zc:twoPhase-
+  Generando código
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Practica1CA.vcxproj -> F:\Proyectos Visual Studio\Practica1CA\Release\Practica1CA.exe
